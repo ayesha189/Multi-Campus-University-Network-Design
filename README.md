@@ -1,10 +1,7 @@
 # Multi-Campus University Network Design
-
-A comprehensive enterprise-level network infrastructure design for a multi-campus university environment, featuring six interconnected campuses with centralized management, high availability, and robust security.
-
 ## 🌐 Project Overview
+A comprehensive enterprise-level network infrastructure design for a multi-campus university environment, featuring six interconnected campuses with centralized management, high availability, and robust security. This project implements a complete network design consisting of six campuses interconnected through a central core network, providing secure, scalable, and high-performance connectivity supporting thousands of students, staff, servers, and wireless users.
 
-This project implements a complete network design for a multi-campus university consisting of six campuses interconnected through a central core network. The design provides secure, scalable, and high-performance connectivity supporting thousands of students, staff, servers, and wireless users.
 
 ### Key Features
 
