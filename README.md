@@ -134,9 +134,7 @@ Each campus receives a /16 subnet, supporting up to 65,536 IP addresses:
 ├── CN_Course_Project.docx    # Complete project documentation
 ├── CN_Course_Project.pkt     # Cisco Packet Tracer simulation file
 ├── README.md                  # This file
-├── configs/                   # Router and switch configurations (if applicable)
-├── diagrams/                  # Network topology diagrams (if applicable)
-└── scripts/                   # Automation scripts (if applicable)
+
 ```
 
 ## 📖 Documentation
@@ -218,40 +216,16 @@ If you want to recreate the network from scratch for learning purposes:
 
 **Tip**: Reference the provided `.pkt` file for complete device configurations!
 
-## 📸 Screenshots
-
-### Network Topology
-![Network Topology](./images/topology.png)
-*Add a screenshot of your Packet Tracer topology here*
-
-### Routing Tables
-![OSPF Routing](./images/ospf-routing.png)
-*Example of OSPF routing table*
-
-### Wireless Configuration
-![WLC Configuration](./images/wlc-config.png)
-*Wireless LAN Controller setup*
-
-> **Note**: To add screenshots, take snapshots from Packet Tracer and save them in an `images/` folder in your repository.
-
-## 👥 Contributing
-
-Contributions to improve the network design or documentation are welcome! Please follow these steps:
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/improvement`)
-3. Commit your changes (`git commit -m 'Add improvement'`)
-4. Push to the branch (`git push origin feature/improvement`)
-5. Open a Pull Request
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+-This project is created for educational purposes as part of a university course assignment.
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+**Team Members:**
+- **23f-0807** - [https://github.com/ayesha189]
+-  **23f-0734** - [https://github.com/NIMRAH-S]
 
 ## 🙏 Acknowledgments
 
@@ -259,9 +233,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Cisco Networking Academy
 - University Faculty and Peers
 
-## 📞 Contact
+## 📝 Academic Details
 
-For questions or feedback, please open an issue in this repository or contact me directly.
+**Course**: Computer Networks
+**Project Type**: Final Project  
+
 
 ---
 
