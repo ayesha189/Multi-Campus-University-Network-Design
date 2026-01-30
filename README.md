@@ -147,7 +147,7 @@ The complete network design documentation including:
 - Routing protocol setup
 - Wireless controller configuration
 
-See [CN_Course_Project.docx](./CN_Course_Project.docx) for full documentation.
+See [CN_Course_Project.docx](../../blob/main/CN_Course_Project.pdf) for full documentation.
 
 ## 💻 Packet Tracer Simulation
 
